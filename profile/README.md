@@ -1,7 +1,7 @@
 # King Operation Corporation Development Team
 
 <p align="center">
-  <img src=".\src\images\logo.png" width="400" title="kingscripts">
+  <img src=".\images\logo.png" width="400" title="kingscripts">
 </p>
 
 King Operating Corporation has been in the oil and gas business of over 25 years, focused on developing commerical assets throughout the Lower 48 US.
