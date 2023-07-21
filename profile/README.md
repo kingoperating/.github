@@ -1,6 +1,5 @@
-<p align="center">
 # King Operation Corporation Development Team
-</p>
+
 <p align="center">
   <img src=".\images\logo.png" width="400" title="kingscripts">
 </p>
