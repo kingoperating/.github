@@ -1,4 +1,4 @@
-# King Operation Corporation Development Team
+# King Operation Corporation Development Library
 
 <p align="center">
   <img src=".\images\logo.png" width="400" title="kingscripts">
